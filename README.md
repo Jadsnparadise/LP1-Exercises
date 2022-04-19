@@ -9,7 +9,6 @@ Resolved exercises and studies of c++ from a college subject called Programming 
 - Question 03 (14/04/2022) :white_check_mark:
 - Question 04 (14/04/2022) :white_check_mark:
 - Question 05 (14/04/2022) :white_check_mark:
-- Question 05 (14/04/2022) :white_check_mark:
 - Question 07 (16/04/2022) :white_check_mark:
 - Question 08 (16/04/2022) :white_check_mark:
 - First List complete at 16/04/2022
