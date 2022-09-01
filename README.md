@@ -1,5 +1,5 @@
 # LP1-Exercises (Programming language 1)
-Resolved exercises and studies of c++ from a college subject called Programming language 1.
+Resolved exercises and studies of c++ from college subject called Programming language 1.
 ##
 # Language: <img align="center" alt="Jadsn-Cpp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 
